@@ -247,7 +247,10 @@ API Documentation can be found at swagger link: /api/v1/swagger-ui.html
 
 ```
 
-### Database
+### Database Design
 
 Database used: MySQL
+![Database-design](https://github.com/mico007/tekana_eWallet/assets/58144795/55e474e2-8dbe-479b-bfa1-2ded4754a677)
+
+
 
