@@ -81,7 +81,7 @@ Base url: /api/v1
 |------------------------------|--------|------------------------------------------------|---------------------------|----------------------------------------------------------------|---------------|
 | /users                       | POST   | fullName, email, password                      |                           | Create new user                                                | No            |
 | /users/login-user            | POST   | email, password                                |                           | Login user                                                     | No            |
-| /customers                   | POST   | fullName, phone, email, sex, address, age      |                           | Create new                                                     | No            |
+| /customers                   | POST   | fullName, phone, email, sex, address, age      |                           | Create new customer                                                  | No            |
 | /customers                   | GET    |                                                |                           | Get all customers                                              | Yes           |
 | /customers/:customerPublicId | GET    |                                                |                           | Get customer by customerId                                     | No            |
 | /transactions                | POST   | amount, transactionType, description, walletId |                           | Create new transaction                                         | No            |
